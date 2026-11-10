@@ -1,0 +1,5 @@
+vendor/
+denic-keys-*/
+YourPrivateKey*
+YourPublicKey.asc
+FINGERPRINT.txt

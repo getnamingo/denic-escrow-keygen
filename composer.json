@@ -1,0 +1,22 @@
+{
+    "name": "getnamingo/denic-escrow-keygen",
+    "description": "RFC 9580 OpenPGP v6 key generator for DENIC Registrar Data Escrow",
+    "type": "project",
+    "license": "MIT",
+    "keywords": [
+        "denic",
+        "data-escrow",
+        "openpgp",
+        "rfc9580",
+        "keygen"
+    ],
+    "require": {
+        "php": ">=8.3",
+        "ext-sodium": "*",
+        "php-privacy/openpgp": "^2.2",
+        "phpseclib/phpseclib": "^3.0"
+    },
+    "config": {
+        "sort-packages": true
+    }
+}
